@@ -1,1 +1,2 @@
-# PracticalTest01Var04
+Craciun Alexandru
+342 C1
